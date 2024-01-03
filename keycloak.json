@@ -1,0 +1,9 @@
+{
+  "realm": "",
+  "auth-server-url": "",
+  "ssl-required": "",
+  "resource": "",
+  "public-client": true,
+  "client_secret": "",
+  "realm-public-key": ""
+}
